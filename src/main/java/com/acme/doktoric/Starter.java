@@ -6,6 +6,6 @@ package com.acme.doktoric;
 public class Starter {
 
     public static void main (String args[]) {
-        System.out.println("hysdfsdfesdf");
+        System.out.println("hysdfsdfesdsdf");
     }
 }
